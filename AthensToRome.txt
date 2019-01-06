@@ -1,0 +1,9 @@
+CITY: Athens, Greece
+Airport: Venizelos(ATH)
+
+DESTINATION: Rome
+
+DIRECT FLIGHTS DETAILS: 
+
+
+INDIRECT FLIGHTS through...

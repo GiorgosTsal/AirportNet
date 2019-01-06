@@ -31,6 +31,13 @@ public class Flight {
 		return company;
 	}
 
+	@Override
+	public String toString() {
+		return "Flight operated by " +this.company+ ", duration "+this.duration+ " minutes";
+	}
+
+	
+	
 	
 	
 	
